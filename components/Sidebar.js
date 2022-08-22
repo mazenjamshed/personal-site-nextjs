@@ -4,6 +4,7 @@ const Wrapper = styled.div`
   width: 12rem;
   height: 100vh;
   background-color: khaki;
+  position: fixed;
 `;
 const Logo = styled.div`
   width: 100%;
